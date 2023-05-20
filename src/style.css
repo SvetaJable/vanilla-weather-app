@@ -31,6 +31,7 @@ ul {
 
 li {
     list-style: none;
+    text-transform: capitalize;
     margin: 0;
     padding: o;
     color: rgb(135, 135, 135);
